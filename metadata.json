@@ -1,0 +1,5 @@
+{
+  "name": "Cable Reel Manager",
+  "description": "An application to manage cutting and logging CAT6 cables from multiple reels, with the ability to export the log to an Excel file.",
+  "requestFramePermissions": []
+}
